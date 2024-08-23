@@ -15,7 +15,7 @@ function Service() {
             <div className='text-transparent bg-gradient-to-r from-orange-500 via-pink-500 to-purple-500 w-96 h-1 pl-4 ml-8'>g</div>
         </div>
 
-        <div className='flex flex-wrap justify-center gap-6 p-4'>
+        <div className='flex flex-wrap justify-center gap-24 p-4'>
   <Card 
     mainImage={userExperience}
     mainText="User Experience" 
